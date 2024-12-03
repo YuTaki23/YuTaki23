@@ -12,3 +12,21 @@
 - 📫 如何联系我 **yutaki23@163.com**
 
 - ⚡ 我的兴趣在 **Artificial Intelligence**
+
+## 学习课程
+
+### 数学基础
+- [x] MIT 18.01
+
+### 编程入门
+- [x] [Harvard CS50X 2024](https://github.com/YuTaki23/CS50X-2024) 
+- [x] [Harvard CS50 for Python](https://github.com/YuTaki23/CS50P)
+- [x] [MIT 6.092](https://github.com/YuTaki23/MIT6.092)
+- [ ] UCB CS61A(重新复习中......)
+
+
+### 数据结构与算法
+- [ ] UCB CS61B(重新复习中......)
+
+### 体系结构
+- [ ] UCB CS61C
