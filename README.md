@@ -22,7 +22,7 @@
 - [x] [Harvard CS50X 2024](https://github.com/YuTaki23/CS50X-2024) 
 - [x] [Harvard CS50 for Python](https://github.com/YuTaki23/CS50P)
 - [x] [MIT 6.092](https://github.com/YuTaki23/MIT6.092)
-- [x] UCB CS61A
+- [x] [UCB CS61A](https://github.com/YuTaki23/CS61A-SP24)
 
 
 ### 数据结构与算法
